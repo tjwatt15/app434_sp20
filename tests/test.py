@@ -1,4 +1,4 @@
-from myrepolib import repomod.myfunc
+from myrepolib.repomod import myfunc
 
 def test_func():
     result = myfunc()
