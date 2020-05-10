@@ -9,3 +9,5 @@ flask
 requests
 numpy
 scikit-learn
+apache-beam
+faker
